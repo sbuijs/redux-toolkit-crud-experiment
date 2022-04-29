@@ -18,6 +18,14 @@ function App() {
   const [userName, setuserName] = useState("");
   const [newUserName, setNewUserName] = useState("");
 
+
+  const handleAddNewUser = (id, name, userName) => {
+    // console.log(id, name, userName);
+    const user = { id, name, userName }
+    addUser(user)
+    console.log(`test`);
+
+  }
   return (
     <div className="App">
       <div className="addUser">
@@ -29,7 +37,7 @@ function App() {
           onChange={(e) => { setuserName(e.target.value) }}
         />
         <button
-          onClick={() => addUser(users.length + 1, name, userName)}
+          onClick={() => handleAddNewUser(users.length + 1, name, userName)}
         >
           Add user
         </button>
