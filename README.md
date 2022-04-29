@@ -1,4 +1,34 @@
+<div id="top"></div>
+
+
+<h1 align="left">Redux toolkit crud experiment</h1>
+  <p align="left">
+Simple crud with ReactJS and Redux toolkit<br/>
+       <a href="https://sbuijs.github.io/redux-toolkit-crud-experiment/">View Demo</a>
+  </p>
+</div>
+<br/>
+<br/>
+
+<img width="1552" alt="Screenshot 2022-04-29 at 11 55 05" src="https://user-images.githubusercontent.com/1607627/165923295-06ff9fdf-1f46-4de5-b0ba-54de628eb66c.png">
+
+## Built With
+- Redux tookit
+- ReactJS
+
+
+## Contact
+
+Stephanie Buijs - buijs.s@gmail.com<br/>
+Project Link: [https://github.com/sbuijs/redux-toolkit-crud-experiment](https://github.com/sbuijs/redux-toolkit-crud-experiment)<br/>
+
+
+<p align="left">(<a href="#top">back to top</a>)</p>
+
+---
+---
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
