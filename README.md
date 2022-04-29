@@ -10,7 +10,7 @@ Simple crud with ReactJS and Redux toolkit<br/>
 <br/>
 <br/>
 
-<img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
+<img width="1552" alt="Screenshot 2022-04-29 at 11 55 05" src="https://user-images.githubusercontent.com/1607627/165923295-06ff9fdf-1f46-4de5-b0ba-54de628eb66c.png">
 
 ## Built With
 - Redux tookit
