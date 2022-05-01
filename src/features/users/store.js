@@ -16,7 +16,6 @@ export const userSlice = createSlice({
         //state is current value of the state
         addUser: (state, action) => {
             //adding a new user to the state array with the payload
-            console.log(action.payload)
             state.value.push(action.payload)
         },
         deleteUser: (state, action) => {
